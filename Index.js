@@ -32,3 +32,4 @@ console log(typeof age);
 let age=undefined;  // Number
 
 console log(typeof age);
+
