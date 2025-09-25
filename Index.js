@@ -28,8 +28,9 @@ let age=30;  // Number
 let age=null;
 
 console log(typeof age);
-
+/*
 let age=undefined;  // Number
 
 console log(typeof age);
+
 
